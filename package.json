@@ -1,0 +1,16 @@
+{
+  "name": "taixiu-ai-node",
+  "version": "1.0.0",
+  "description": "API TaiXiu (Rule + Online Logistic Regression) chạy Node.js treo Render",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "axios": "^1.7.2",
+    "express": "^4.19.2"
+  }
+}
